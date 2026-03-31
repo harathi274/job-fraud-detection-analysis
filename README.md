@@ -1,5 +1,8 @@
 # Job Fraud Detection Analysis
 
+## 📸 Project Preview
+![Project Screenshot](project_screenshot.png)
+
 ## 📌 Project Overview
 This project analyzes job postings to identify patterns that distinguish fake and real job listings. The goal is to help users recognize fraudulent job opportunities and avoid scams.
 
